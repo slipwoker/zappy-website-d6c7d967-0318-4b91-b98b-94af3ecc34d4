@@ -1,0 +1,84 @@
+# Zonot — Generative Engine Optimization Map
+
+> צור לי אתר של חשפניות אם תמונות להזמנות
+
+---
+
+## Pages
+
+### בית
+https://zonot-d6c7d967.zappy5.app
+Zonot מביאה לכם פתרונות דיגיטליים פורצי דרך ליזמים טכנולוגיים. התחילו להאיץ את העסק עוד היום עם כלים חכמים שמותאמים לצרכים שלכם.
+
+### שירותים
+https://zonot-d6c7d967.zappy5.app/services
+מגוון שירותים דיגיטליים מתקדמים מבית Zonot עוזרים לכם לבנות, להתרחב ולכבוש את השוק. בדקו איך אנחנו הופכים רעיונות למציאות לוהטת.
+
+### גלריה
+https://zonot-d6c7d967.zappy5.app/gallery
+גלריה מעוררת השראה מבית Zonot מציגה פרויקטים דיגיטליים שהקפיצו יזמים קדימה. היכנסו לראות איך אנחנו מעצבים הצלחות.
+
+### צור קשר
+https://zonot-d6c7d967.zappy5.app/contact
+מוכנים להזניק את המיזם שלכם? צרו קשר עם Zonot וקבלו ייעוץ אישי לכלים דיגיטליים שישנו את המשחק. אנחנו כאן בשבילכם.
+
+### Products
+https://zonot-d6c7d967.zappy5.app/products
+המוצרים שלנו - Zonot
+
+### Product Detail
+https://zonot-d6c7d967.zappy5.app/product/:slug
+פרטי המוצר - Zonot
+
+### Category
+https://zonot-d6c7d967.zappy5.app/category/:slug
+מוצרים - Zonot
+
+### תודה על פנייתך
+https://zonot-d6c7d967.zappy5.app/thank-you
+Zonot - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://zonot-d6c7d967.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zonot-d6c7d967.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zonot-d6c7d967.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Zonot
+צור לי אתר של חשפניות אם תמונות להזמנות
+
+## Target Audience
+- יזמים טכנולוגיים
+- מקצועני שיווק דיגיטלי
+- יוצרים עצמאיים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://zonot-d6c7d967.zappy5.app/sitemap.xml
+- Robots: https://zonot-d6c7d967.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zonot-d6c7d967.zappy5.app/llms-full.txt
+- Products (JSON): https://zonot-d6c7d967.zappy5.app/products.json
+- Products (Google Merchant RSS): https://zonot-d6c7d967.zappy5.app/product-feed.xml
